@@ -16,7 +16,7 @@
     "watch:scss": "onchange \"css/*.scss\" -- npm run scss",
     "watch:all": "parallelshell \"npm run watch:scss\" \"npm run lite\""
   },
-  "author": "Gregoire",
+  "author": "Gregoire S. D'Meza",
   "license": "ISC",
   "devDependencies": {
     "copyfiles": "^2.2.0",
